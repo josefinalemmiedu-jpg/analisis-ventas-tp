@@ -75,3 +75,11 @@ Resultados obtenidos:
 - Producto más vendido: Remera
 
 Los archivos generados se guardaron en la carpeta resultados/.
+
+## Revisión técnica
+Se realizó una revisión del proyecto verificando que:
+- el script se ejecute correctamente en Google Colab
+- las rutas utilizadas sean relativas
+- los resultados se guarden en la carpeta resultados/
+- no se exponga el token de GitHub en el repositorio
+- el README describa el objetivo, la estructura y la forma de ejecución del proyecto
