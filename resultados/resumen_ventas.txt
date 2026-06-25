@@ -1,0 +1,8 @@
+Ventas totales: $330000
+Producto más vendido: Remera
+
+Ventas por mes:
+mes
+2026-01     86000
+2026-02    120000
+2026-03    124000
