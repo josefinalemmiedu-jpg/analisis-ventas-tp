@@ -66,3 +66,12 @@ El trabajo fue organizado mediante un tablero de Jira con las siguientes tareas:
 - AV-3: Revisar documentación y realizar Pull Request
 
 Cada commit debe respetar la trazabilidad con Jira, incluyendo el código de la tarea correspondiente.
+
+## Resultado del análisis
+El script de análisis de ventas fue ejecutado correctamente en Google Colab.
+
+Resultados obtenidos:
+- Ventas totales: $330000
+- Producto más vendido: Remera
+
+Los archivos generados se guardaron en la carpeta resultados/.
